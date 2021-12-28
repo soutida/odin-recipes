@@ -1,0 +1,15 @@
+body {
+    background-color: lightgrey;
+    font-family: Helvetica, sans-serif; 
+    font-size: 18px; 
+}
+
+h1 {
+    color: darkgreen; 
+    font-family: Helvetica, sans-serif; 
+}
+
+.ul {
+    color: darkgreen; 
+    font-weight: bold; 
+}
